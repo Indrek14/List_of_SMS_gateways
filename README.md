@@ -1668,6 +1668,14 @@ Some carriers have multiple gateways. The SMS gateway refers to Short Message Se
 <td></td>
 </tr>
 <tr>
+<td>TextMagic</td>
+<td><a href="http://en.wikipedia.org/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td>
+<td>Log in to TextMagic for details</td>
+<td><a rel="nofollow" class="external autonumber" href="https://www.textmagic.com">TextMagic</a></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td><a href="http://en.wikipedia.org/w/index.php?title=TextOver&amp;action=edit&amp;redlink=1" class="new" title="TextOver (page does not exist)">TextOver</a></td>
 <td><a href="http://en.wikipedia.org/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td>
 <td>Log in to TextOver for details</td>
